@@ -1,0 +1,16 @@
+24-02-02/16/24-Feb:02:26:Preliminaries complete. Initiating ETL process
+24-02-02/16/24-Feb:02:29:Data extraction complete. Initiating Transformation process
+24-02-02/16/24-Feb:02:29:Data transformation complete. Initiating Loading process
+24-02-02/16/24-Feb:02:29:Data saved to CSV file
+24-02-02/16/24-Feb:02:29:SQL Connection initiated
+24-02-02/16/24-Feb:02:29:Data loaded to Database as a table, Executing queries
+24-02-02/16/24-Feb:02:29:Process Complete
+24-02-02/16/24-Feb:02:29:Server Connection closed
+24-02-02/16/24-Feb:02:35:Preliminaries complete. Initiating ETL process
+24-02-02/16/24-Feb:02:36:Data extraction complete. Initiating Transformation process
+24-02-02/16/24-Feb:02:36:Data transformation complete. Initiating Loading process
+24-02-02/16/24-Feb:02:36:Data saved to CSV file
+24-02-02/16/24-Feb:02:36:SQL Connection initiated
+24-02-02/16/24-Feb:02:36:Data loaded to Database as a table, Executing queries
+24-02-02/16/24-Feb:02:36:Process Complete
+24-02-02/16/24-Feb:02:36:Server Connection closed
